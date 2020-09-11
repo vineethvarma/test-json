@@ -1,0 +1,39 @@
+{
+    "location_name": [
+        "Hyderabad",
+        "Vijayawada"
+    ],
+    "category": "Regional",
+    "status": "Prospect",
+    "phone_number": [
+        "8976482309",
+        "6478397635"
+    ],
+    "email_address": [
+        "test@test.com",
+        "test2@test.com"
+    ],
+    "address": {
+        "address_line1": [
+            "Vimala Nagar"
+        ],
+        "address_line2": [
+            "DS Tank"
+        ],
+        "postal_code": [
+            "534101"
+        ],
+        "city_name": "Vijayawada",
+        "state_name": "Andhra Pradesh",
+        "country_name": "India"
+    },
+    "location_type": [
+        "Headquarter",
+        "Office"
+    ],
+    "contact_person": {
+        "first_name": "Testing name",
+        "last_name": "Testing last name",
+        "designation": "Manager"
+    }
+}
